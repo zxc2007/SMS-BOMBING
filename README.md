@@ -8,3 +8,6 @@ git clone https://github.com/MAHADI-143/SMS-BOMBING.git
 cd SMS-BOMBING
 
 python BOMBING.py
+```
+USERNAME - MAHADI
+PASSWORD - HASAN
